@@ -1,0 +1,9 @@
+langchain_ollama
+langchain_core
+streamlit
+langchain
+langchain_community
+langchain_chroma
+pdfplumber
+chromadb
+tiktoken
